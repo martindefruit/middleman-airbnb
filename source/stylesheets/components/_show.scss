@@ -1,0 +1,17 @@
+.background-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  .intro {
+    padding: 0;
+  }
+  h1 {
+    color: white;
+    font-size: 50px;
+  }
+  p {
+    color: white;
+    font-size: 25px;
+  }
+}
