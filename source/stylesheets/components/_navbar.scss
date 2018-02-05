@@ -8,15 +8,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-
-/* Logo */
+  /* Logo */
 .navbar-wagon-brand {
   height: 50px;
 }
 
 /* User Avatar */
-.navbar-wagon .avatar {
+.avatar {
   height: 35px;
   width: 35px;
   border-radius: 50%;
@@ -75,3 +73,6 @@
   border-left: 1px solid #E6E6E6;
   border-top: 1px solid #E6E6E6;
 }
+
+}
+
